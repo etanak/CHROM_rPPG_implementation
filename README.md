@@ -40,7 +40,7 @@ You can find these graphs in Figures 1-3.
 
 </div>
 
-## Test Videos 🎥
+## Test Videos [WATCH ME!] 🎥
 - [CHROM test](https://youtu.be/e884ERxox64)
 - [CHROM x FSM test](https://youtu.be/qiBjtAyDVHA)
 
