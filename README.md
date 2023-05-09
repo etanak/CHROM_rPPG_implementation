@@ -1,6 +1,6 @@
 # CHROM_rPPG_implementation
 
-DISCLAIMER: I didn't develop the entire code myself. I just modified and asssembled others'codes together. I had given credit to other githubs in the BIG THANKS !!
+DISCLAIMER: I didn't develop the entire code myself. I just modified and asssembled others'codes together. I had given credit to other githubs in the last part of this README (BIG THANKS !!) !!
 
 To run this code, first you have to clone/download SkinDetector at: https://github.com/pavisj/rppg-pos/tree/master/SkinDetector
 . And place the SkinDetector folder in a place where it's compatible with your path. Second, install all the required libraries 
@@ -13,7 +13,7 @@ Results:
 ![Figure_3](https://user-images.githubusercontent.com/108513333/237021816-72b471dc-6128-4b77-b65c-ec5437d705b0.png)
 
 
-BIG THANKS TO THESE GITHUBS !!:
+BIG THANKS TO THESE GITHUBS !!: <br>
 https://github.com/dnwjddl/remotePPG <br>
 https://github.com/pavisj/rppg-pos <br>
 https://github.com/habom2310/Heart-rate-measurement-using-camera
