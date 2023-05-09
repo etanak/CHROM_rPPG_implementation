@@ -4,7 +4,7 @@
 
 This is part of my undergrad graduation project for the Electrical Engineering Project 2102499 course. This is a CHROM rPPG implementation to estimate heart rate with finite state machine to validate.
 
-❗️<b style="color:red">DISCLAIMER:</b>❗️ I didn't develop the entire code myself. I have given credit to other Githubs in the last part of this README (BIG THANKS!!)!!
+❗️<b style="color:red">DISCLAIMER:</b>❗️ I didn't develop the entire code myself. I have given credit to other Githubs in the last part of this README (BIG THANKS!!)
 
 </div>
 
