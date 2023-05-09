@@ -22,7 +22,7 @@ This is part of my undergrad graduation project for the Electrical Engineering P
   |             | MAD (mean absolute difference) | SD (standard deviation) |
 |-------------|--------------------------------|-------------------------|
 | Normal Skin | 2.20                           | 2.98                    |
-| Dark Skin   | 2.71                           | 3.60                    |
+| Tanned Skin   | 2.71                           | 3.60                    |
 
 
 To visualize the data, scatter plots, Bland-Altman plots, and density histograms were used. These graphs showed the distribution of the data and how close the estimated heart rate was to the actual heart rate.
