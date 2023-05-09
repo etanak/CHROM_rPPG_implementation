@@ -2,7 +2,7 @@
 
 This is part of my undergrad graduation project for the Electrical Engineering Project 2102499 course.
 
-<b style="color:red">DISCLAIMER:</b> I didn't develop the entire code myself. I just modified and assembled other people's code together. I have given credit to other GitHub repositories in the last part of this README (BIG THANKS!!)!!
+<b style="color:red">DISCLAIMER:</b> I didn't develop the entire code myself. I just modified and assembled other people's code together. I have given credit to other GitHub repositories in the last part of this README (BIG THANKS!!)
 
 ## Usage
 
