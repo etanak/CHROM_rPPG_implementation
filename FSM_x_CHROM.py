@@ -1,5 +1,5 @@
 """
-Pulse extraction using POS algorithm (%(version)s)
+Pulse extraction using CHROM algorithm (%(version)s)
 """
 from scipy.signal import welch
 import cv2
