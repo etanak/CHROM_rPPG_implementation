@@ -30,7 +30,7 @@ This is part of my undergrad graduation project for the Electrical Engineering P
 
 ## Test Videos 🎥
 - [CHROM test](https://youtu.be/e884ERxox64)
-- [CHROM x FSM test](https://youtu.be/qiBjtAyDVHA))
+- [CHROM x FSM test](https://youtu.be/qiBjtAyDVHA)
 
 
 <div align="center">
