@@ -14,7 +14,7 @@ Results:
 
 
 BIG THANKS TO THESE GITHUBS !!:
-https://github.com/dnwjddl/remotePPG
-https://github.com/pavisj/rppg-pos
+https://github.com/dnwjddl/remotePPG <br>
+https://github.com/pavisj/rppg-pos <br>
 https://github.com/habom2310/Heart-rate-measurement-using-camera
 
