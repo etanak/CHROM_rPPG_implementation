@@ -16,6 +16,18 @@ This is part of my undergrad graduation project for the Electrical Engineering P
 
 ## Results 📊
 <div align="center">
+  
+  The study collected data from two groups of subjects, one with normal skin color and one with darker skin color. The normal skin group had 484 samples and the darker skin group had 207 samples. The mean absolute difference (MAD) and standard deviation (SD) were calculated for both groups. The results showed that the MAD and SD were slightly higher for the darker skin group.
+  
+  |             | MAD (mean absolute difference) | SD (standard deviation) |
+|-------------|--------------------------------|-------------------------|
+| Normal Skin | 2.20                           | 2.98                    |
+| Dark Skin   | 2.71                           | 3.60                    |
+
+
+To visualize the data, scatter plots, Bland-Altman plots, and density histograms were used. These graphs showed the distribution of the data and how close the estimated heart rate was to the actual heart rate.
+
+You can find these graphs in Figures 1-3 of the readme file, along with information on how to run the code and validate the results.
 
 ![Figure_1](https://user-images.githubusercontent.com/108513333/237021689-8b19b57d-9e29-42e5-a5d7-51d68463d091.png)
 <br>Figure 1 - Scatter plot 
